@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite or reference this work, please use the following metadata."
+title: "The Confabulation Engine: Why Artificial Intelligence Doesn't Lie — It Confabulates"
+authors:
+  - family-names: "Cayuqueo"
+    given-names: "Sergio"
+    affiliation: "Independent Researcher"
+date-released: "2026-08-29"
+type: article
+keywords:
+  - confabulation
+  - artificial intelligence
+  - large language models
+  - epistemology
+  - philosophy of mind
+  - Gazzaniga
+  - interpreter theory
+license: CC-BY-4.0
