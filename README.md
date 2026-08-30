@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1351090262.svg)](https://doi.org/10.5281/zenodo.22168924)
+[![DOI](https://zenodo.org/badge/1351090262.svg)](https://doi.org/10.5281/zenodo.22168924) **Preprint**: [PsyArXiv (OSF Preprints)](https://osf.io/preprints/psyarxiv/cren9_v1)
 
 # The Confabulation Engine
 > **Why Artificial Intelligence Doesn't Lie — It Confabulates**
