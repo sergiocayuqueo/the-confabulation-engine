@@ -1,11 +1,11 @@
 [![DOI](https://img.shields.io/badge/DOI-10.31234%2Fosf.io%2Fnmk8d-blue.svg)](https://doi.org/10.31234/osf.io/nmk8d) [![PsyArXiv Preprint](https://img.shields.io/badge/PsyArXiv-Preprint-B31B1B?style=flat&logo=osf&logoColor=white)](https://osf.io/preprints/psyarxiv/nmk8d_v1)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # The Confabulation Engine
 > **Why Artificial Intelligence Does Not Lie — It Confabulates**
 
 **Author:** Sergio Cayuqueo (*Independent Researcher*)  
 **Publication Date:** August 2026  
-**License:** [CC-BY-4.0](./LICENSE)
 
 ---
 
